@@ -13,7 +13,7 @@ print(4 * "\n")  # it's print 4 blank lines
 """ NOTE:
         1. In  python(above 3+ version) every print() statement have end command, the default value of end command 
            is '\n'. because of that after every print statement next statement comes/print in newline in output.
-        2. You can end a print statement with any character or string using this 'end' parameter.
+        2. You can end a print statement with any character or string using'end' parameter.
         3. For example if you replace end statement with space then the next print statement not printed in newline
            because we replaced end statement value i.e \n with space so next statement print along with current print 
            statement with space. check below print statements"""
